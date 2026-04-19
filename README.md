@@ -9,7 +9,7 @@
 - node.js
 
 ## Моё фото
-![Моё фото]("C:\Users\Яна\Desktop\my-portfolio\UjbTkovE67wUX-kzYEOthJb5Llt4pVDuJBqOMv3ws3PD9hn6i-vF-IKJ-95BiZrDPBcEYoyc1QsLjeXx44smOPcw.jpg")
+![Моё фото](UjbTkovE67wUX-kzYEOthJb5Llt4pVDuJBqOMv3ws3PD9hn6i-vF-IKJ-95BiZrDPBcEYoyc1QsLjeXx44smOPcw.jpg)
 
 ## Контакты
 - GitHub: [yanashishkina030719-a11y](https://github.com/yanashishkina030719-a11y)
